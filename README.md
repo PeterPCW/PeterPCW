@@ -2,11 +2,11 @@
 
 ### 💫 About Me ✨
 
-I love to experiment and iterate quickly. This drive leads me in all sorts of directions:
+I love to experiment and iterate quickly. This leads me in all sorts of directions:
 - ⚙ Scripting automations and building browser extensions
+- 👨‍💼 Troubleshooting with customers every chance I get
 - 🤖 Engineering complex prompts on the cutting edge of AI 
-- 👨‍💼 Engaging customers every chance I get
-- 🍳 Developing and testing new recipies
+- 🍳 Developing new dishes, by taste not recipes
 
 ### 💬 Reach Out 📧
 

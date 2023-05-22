@@ -30,6 +30,7 @@ I am most comfortable in the front end and building toward Full-Stack competency
 | <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> | <img alt="Flask" src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white"/> | ![DynamoDB](https://img.shields.io/badge/dynamodb-FF9900?style=for-the-badge&logo=dynamodb) | ![Plasmo](https://img.shields.io/badge/plasmo-white?style=for-the-badge&logo=plasmo) | <img alt="Terraform" src="https://img.shields.io/badge/terraform%20-%235835CC.svg?&style=for-the-badge&logo=terraform&logoColor=white"/> | |
 | <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> | ![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django) | | ![VS Code](https://img.shields.io/badge/VS%20Code-black?style=for-the-badge&logo=VisualStudioCode&logoColor=%2323bda3) | | |
 | ![C++](https://img.shields.io/badge/C%2B%2B-044F88?style=for-the-badge&logo=cplusplus) | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) | | <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> | | |
+| | | | <img alt="OpenAI" src="https://img.shields.io/badge/openai%20-74AA9C.svg?&style=for-the-badge&logo=openai&logoColor=white"/> | | |
 
 <!--
 **PeterPCW/PeterPCW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

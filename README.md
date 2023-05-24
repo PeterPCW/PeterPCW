@@ -33,6 +33,7 @@ There is no greater joy than seeing customers succeed first-hand. I feed off of 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peterpcw/)
 [![](https://img.shields.io/badge/site-878787.svg?&style=for-the-badge&logo=Microsoft%20Edge&logoColor=%23000000)](https://peterpcw.github.io/)
 [![](https://img.shields.io/badge/email-FF8500.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:peter@byteplusbit.com)
+[![](https://img.shields.io/badge/FlowGPT%20-black.svg?&style=for-the-badge&logo=openai&logoColor=white)](https://flowgpt.com/user/4Y3HrXQ9D9ff8U4EqVzpB)
 
 </div>
 
@@ -57,19 +58,9 @@ There is no greater joy than seeing customers succeed first-hand. I feed off of 
 | <img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> | ![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django) | <img alt="Apps Script" src="https://img.shields.io/badge/apps%20script-white.svg?style=for-the-badge&logo=google"/> | ![VS Code](https://img.shields.io/badge/VS%20Code-black?style=for-the-badge&logo=VisualStudioCode&logoColor=%2323bda3) | ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) | <img alt="D3" src="https://img.shields.io/badge/d3-white.svg?style=for-the-badge&logo=d3.js"/> | <img alt="Tableau" src="https://img.shields.io/badge/tableau-1C4481.svg?style=for-the-badge&logo=tableau"/> |
 | ![C++](https://img.shields.io/badge/C%2B%2B-044F88?style=for-the-badge&logo=cplusplus) | ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) | | <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/> | <img alt="Terraform" src="https://img.shields.io/badge/terraform%20-%235835CC.svg?&style=for-the-badge&logo=terraform&logoColor=white"/> | | |
 
-I've tried many different flavors, but I keep coming back to <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54), and <img alt="OpenAI" src="https://img.shields.io/badge/openai%20-74AA9C.svg?&style=for-the-badge&logo=openai&logoColor=white"/> 👀.
 
-<!--
-**PeterPCW/PeterPCW** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align='center'>
 
-Here are some ideas to get you started:
+And in a category all to itself: <img alt="OpenAI" src="https://img.shields.io/badge/openai%20-74AA9C.svg?&style=for-the-badge&logo=openai&logoColor=white"/> 👀.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>

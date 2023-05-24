@@ -1,6 +1,12 @@
 ## Heyyy 👋 I'm Peter
 
+</br>
+
 <div align='center'>
+
+### Software Developer 👨‍💻 Customer Support Champion 💬 Prompt Engineer
+
+</br>
 
 ### 💫 About Me ✨
 

@@ -14,10 +14,10 @@
 
 </br>
 
-I live by Experiment→Iterate→Automate. This leads me in all sorts of directions:
-- ⚙ Scripting MVP workflows and browser extensions
+Experiment→Iterate→Automate is my guiding philosophy. This leads me in all sorts of directions:
+- ⚙ Scripting multiple workflows and browser extensions
 - 🛠 Troubleshooting first, asking questions later
-- 🤖 Diving into prompt engineering and the cutting edge of AI 
+- 🤖 Diving into prompt engineering and the cutting edge of AI
 - 🍳 Developing new dishes, by taste not recipes
 
 There is no greater joy than seeing customers succeed first-hand. I relish in their energy, and offer stability in return:

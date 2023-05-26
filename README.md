@@ -22,7 +22,7 @@ Experiment→Iterate→Automate is my guiding philosophy. This has lead me to:
 
 </br>
 
-There is no greater joy than watching first-hand as your customers succeed.
+Coding wins are fun, but there is no greater joy than watching first-hand as your customers succeed!
 
 I relish in their energy, and in the more trying times I offer stability in return:
 - 🤨 Cool head

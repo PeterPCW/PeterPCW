@@ -14,13 +14,17 @@
 
 </br>
 
-Experiment→Iterate→Automate is my guiding philosophy. This leads me in all sorts of directions:
+Experiment→Iterate→Automate is my guiding philosophy. This has lead me to:
 - ⚙ Scripting multiple workflows and browser extensions
 - 🛠 Troubleshooting first, asking questions later
 - 🤖 Diving into prompt engineering and the cutting edge of AI
 - 🍳 Developing new dishes, by taste not recipes
 
-There is no greater joy than seeing customers succeed first-hand. I relish in their energy, and offer stability in return:
+</br>
+
+There is no greater joy than watching first-hand as your customers succeed.
+
+I relish in their energy, and in the more trying times I offer stability in return:
 - 🤨 Cool head
 - 🤗 Warm heart
 - 💭 Clear logic

@@ -1,4 +1,4 @@
-<svg fill="none" viewBox="0 0 600 400" width="600" height="400" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 600 133" width="600" height="133" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
   <div xmlns="http://www.w3.org/1999/xhtml">
     <style>
@@ -20,9 +20,8 @@
         --color-link: #ff0085;
         --color-link-active: #8500ff;
 
-        height: 400px;
+        height: 133px;
         width: 100%;
-        text-transform: uppercase;
         display: flex;
         align-items: center;
         justify-content: center;
@@ -31,7 +30,7 @@
         animation: border 5s linear infinite;
         background-size: 200% 200%;
         background-position: 0 0;
-        border: 24px solid;
+        border: 10px solid;
         border-color: var(--color-background);
       }
 
@@ -50,6 +49,7 @@
         font-weight: 800;
         font-family: "Open Sans", sans-serif;
         text-align: center;
+	text-transform: uppercase;
       }
       h1 a {
         display: block;
@@ -63,7 +63,7 @@
         display: block;
       }
       h1 a span:nth-child(1) {
-        color: var(--color-main);
+        color: var(--color-secondary);
         margin-bottom: 6px;
         animation: intro 1.5s cubic-bezier(0.5, 0, 0.25, 1.3) -1s 1;
       }
@@ -73,7 +73,7 @@
         margin-bottom: -10px;
       }
       h1 a span:nth-child(2) {
-        color: var(--color-primary);
+        color: var(--color-main);
         margin-bottom: 6px;
         animation: intro 1.5s cubic-bezier(0.5, 0, 0.25, 1.2) -0.9s 1;
       }
@@ -82,7 +82,7 @@
         line-height: 1rem;
       }
       h1 a span:nth-child(3) {
-        color: var(--color-secondary);
+        color: var(--color-primary);
         animation: intro 1.5s cubic-bezier(0.5, 0, 0.25, 1.1) -0.8s 1;
       }
       h1 a span:nth-child(3) em {
@@ -109,32 +109,13 @@
         align-items: center;
         flex-direction: column;
       }
-      ul {
+      h3 {
         font-size: 16px;
         line-height: 26px;
         color: var(--color-main);
+	margin-top: 10px;
         font-weight: 700;
         font-family: "Open Sans", sans-serif;
-      }
-      ul li {
-        display: flex;
-        letter-spacing: 0.125vw;
-      }
-      ul li a {
-        margin-left: 5px;
-      }
-      ul li a:hover,
-      ul li a:focus {
-        color: var(--color-link-active);
-      }
-      ul li a {
-        color: var(--color-link);
-      }
-
-      .hi {
-        display: inline-block;
-        transform-origin: 70% 70%;
-        animation: hi 3s linear -2s infinite;
       }
 
       @keyframes border {
@@ -209,14 +190,7 @@
             <span><em>Peter Williams</em></span>
           </a>
         </h1>
-        <section class='items'>
-          <ul>
-            <li>Software Developer 👨‍💻 Automation Expert 💬 Prompt Engineer</li>
-          </ul>
-          <ul>
-            <li><span class='hi'>👋</span></li>
-          </ul>
-        </section>
+        <h3>Software Developer 👨‍💻 Automation Expert 💬 Prompt Engineer</h3>
       </div>
     </div>
   </div>

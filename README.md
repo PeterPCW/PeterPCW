@@ -4,7 +4,7 @@
 
 <div align='center'>
 
-### Software Developer 👨‍💻 Customer Support Champion 💬 Prompt Engineer
+### Software Developer 👨‍💻 Automation Expert 💬 Prompt Engineer
 
 </br>
 
@@ -19,16 +19,6 @@ Experiment→Iterate→Automate is my guiding philosophy. This has lead me to:
 - 🛠 Troubleshooting first, asking questions later
 - 🤖 Diving into prompt engineering and the cutting edge of AI
 - 🍳 Developing new dishes, by taste not recipes
-
-</br>
-
-Coding wins are fun, but there is no greater joy than watching first-hand as your customers succeed!
-
-I relish in their energy, and in the more trying times I offer stability in return:
-- 🤨 Cool head
-- 🤗 Warm heart
-- 💭 Clear logic
-- 📝 Brief notes
 
 </br>
 

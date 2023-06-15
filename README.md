@@ -20,7 +20,7 @@
 
 <div align='center'>
 
-## 💬 Reach Out 📧
+# 💬 Reach Out 📧
 
 </br>
 
@@ -37,7 +37,7 @@
 
 <div align='center'>
 
-## 💻 Tech Stack 🥞
+# 💻 Tech Stack 🥞
 
 </br>
 

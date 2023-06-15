@@ -126,19 +126,6 @@
         100% { background-position: 0 0; }
       }
 
-      @keyframes hi {
-        25% { transform: rotate(0deg); }
-        30% { transform: rotate(15deg); }
-        35% { transform: rotate(0deg); }
-        40% { transform: rotate(15deg); }
-        45% { transform: rotate(0deg); }
-        80% { transform: rotate(0deg); }
-        85% { transform: rotate(15deg); }
-        90% { transform: rotate(0deg); }
-        95% { transform: rotate(15deg); }
-        100% { transform: rotate(0deg); }
-      }
-
       @keyframes intro {
         0%, 75% { transform: translateX(-100vw); }
         100% { transform: translateX(0); }

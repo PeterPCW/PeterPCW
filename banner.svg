@@ -16,7 +16,7 @@
         --color-main: #ff5700;
         --color-primary: #00ff00;
         --color-secondary: #00bbff;
-        --color-background: #212121;
+        --color-background: #0d1117;
         --color-link: #ff0085;
         --color-link-active: #8500ff;
 
@@ -30,7 +30,6 @@
         animation: border 5s linear infinite;
         background-size: 200% 200%;
         background-position: 0 0;
-        border: 10px solid;
         border-color: var(--color-background);
       }
 
@@ -141,8 +140,8 @@
 		  --color-main: #ff5700;
 		  --color-primary: #00ff00;
 		  --color-secondary: #00bbff;
-		  --color-background: #212121;
-		  --color-link: #ff0085;
+                  --color-background: #0d1117;
+	          --color-link: #ff0085;
 		  --color-link-active: #8500ff;
         }
       }

@@ -10,6 +10,7 @@
           height: 300px;
 
           display: flex;
+          flex-direction: column;
           justify-content: center;
           align-items: center;
           color: white;
@@ -32,21 +33,19 @@
 
       <div class="container">
         <h1>💫 About Me ✨</h1>
+        <h4>Experiment→Iterate→Automate is my guiding philosophy. This has lead me to:</h4>
         <section class='items'>
           <ul>
-            <li>Experiment→Iterate→Automate is my guiding philosophy. This has lead me to:</li>
+            <li>⚙ Scripting multiple workflows and browser extensions</li>
           </ul>
           <ul>
-            <li>- ⚙ Scripting multiple workflows and browser extensions</li>
+            <li>🛠 Troubleshooting first, asking questions later</li>
           </ul>
           <ul>
-            <li>- 🛠 Troubleshooting first, asking questions later</li>
+            <li>🤖 Diving into prompt engineering and the cutting edge of AI</li>
           </ul>
           <ul>
-            <li>- 🤖 Diving into prompt engineering and the cutting edge of AI</li>
-          </ul>
-          <ul>
-            <li>- 🍳 Developing new dishes, by taste not recipes</li>
+            <li>🍳 Developing new dishes, by taste not recipes</li>
           </ul>
         </section>
       </div>

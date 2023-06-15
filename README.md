@@ -1,28 +1,17 @@
-## Heyyy 👋 I'm Peter
-
-</br>
-
-<div align='center'>
-
-### Software Developer 👨‍💻 Automation Expert 💬 Prompt Engineer
-
-</br>
-
-### 💫 About Me ✨
-
+<div style="width: 100%;">
+  <a href="https://github.com/peterpcw/peterpcw/blame/main/banner.svg">
+    <img src="banner.svg" style="width: 100%;" alt="Click to see the source">
+  </a>
 </div>
 
 </br>
 
-<div align='left'>
+</br>
 
-
-Experiment→Iterate→Automate is my guiding philosophy. This has lead me to:
-- ⚙ Scripting multiple workflows and browser extensions
-- 🛠 Troubleshooting first, asking questions later
-- 🤖 Diving into prompt engineering and the cutting edge of AI
-- 🍳 Developing new dishes, by taste not recipes
-
+<div style="width: 100%;">
+  <a href="https://github.com/peterpcw/peterpcw/blame/main/about.svg">
+    <img src="about.svg" style="width: 100%;" alt="Click to see the source">
+  </a>
 </div>
 
 </br>

@@ -28,20 +28,11 @@
       </style>
 
       <div class="container">
-        
-        <section class='items'>
-          <ul>
-            <li>⚙ Scripting workflows and building browser extensions</li>
-          </ul>
-          <ul>
-            <li>🛠 Hacking and troubleshooting first, asking questions later</li>
-          </ul>
-          <ul>
-            <li>🤖 Diving into prompt engineering and the cutting edge of AI</li>
-          </ul>
-          <ul>
-            <li>🍳 Developing new dishes by taste instead of using recipes</li>
-          </ul>
+        <section>
+          <p>⚙  Scripting workflows and building browser extensions</p>
+          <p>🛠  Hacking and troubleshooting first, asking questions later</p>
+          <p>🤖  Diving into prompt engineering and the cutting edge of AI</p>
+          <p>🍳  Developing new dishes by taste instead of using recipes</p>
         </section>
       </div>
     </div>

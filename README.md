@@ -7,6 +7,13 @@
 </br>
 
 </br>
+<div align='center'>
+
+# 💫 About Me ✨
+
+### Experiment→Iterate→Automate is my guiding philosophy. This leads me to:
+
+</div>
 
 <div style="width: 100%;">
   <a href="https://github.com/peterpcw/peterpcw/blame/main/about.svg">

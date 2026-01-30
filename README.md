@@ -32,7 +32,7 @@ I'm a developer who's fully embraced the AI coding era — using agents and auto
 
 ## 🧠 What I'm Working On
 
-- **AI-Assisted Development** — Leveraging Claude, GPT-4, and agent workflows to accelerate shipping
+- **AI-Assisted Development** — Leveraging agent workflows to accelerate shipping
 - **React Ecosystem** — Modernizing well-loved libraries for React 18/19
 - **Developer Tools** — Automations, CLIs, and workflows that save time
 - **Open Source Revivals** — Taking on maintenance of abandoned but valuable tools

@@ -46,18 +46,18 @@ I'm a developer who's fully embraced the AI coding era — using agents and auto
 
 ---
 
-## 📫 Connect
-
 <div align="center">
+
+## 📫 Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/peterpcw/)
 [![Website](https://img.shields.io/badge/Website-333333?style=for-the-badge&logo=google-chrome&logoColor=white)](https://peterpcw.github.io/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:peter@byteplusbit.com)
 
-</div>
-
 ---
 
 *"The best way to predict the future is to create it."*
+
+</div>
 
 </div>

@@ -21,8 +21,8 @@ I'm a developer who's fully embraced the AI coding era — using agents and auto
 
 | Project | Description | Link |
 |---------|-------------|------|
-| **recoil-community** | Modern fork of Facebook's Recoil state manager for React | [npm](https://www.npmjs.com/package/recoil-community) |
-| **normalizr-modern** | Updated JSON normalization library for modern TypeScript apps | [npm](https://www.npmjs.com/package/normalizr-modern) |
+| **recoil-community** | Modern fork of Facebook's Recoil state manager for React | [![npm version](https://img.shields.io/npm/v/normalizr-modern.svg)](https://www.npmjs.com/package/normalizr-modern) |
+| **normalizr-modern** | Updated JSON normalization library for modern TypeScript apps | [![NPM Package](https://img.shields.io/npm/v/recoil-community.svg)](https://www.npmjs.com/package/recoil-community) |
 
 *More projects coming soon...*
 

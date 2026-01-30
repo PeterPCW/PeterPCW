@@ -23,6 +23,7 @@ I'm a developer who's fully embraced the AI coding era — using agents and auto
 |---------|-------------|------|
 | **recoil-community** | Modern fork of Facebook's Recoil state manager for React | [![npm version](https://img.shields.io/npm/v/normalizr-modern.svg)](https://www.npmjs.com/package/normalizr-modern) |
 | **normalizr-modern** | Updated JSON normalization library for modern TypeScript apps | [![NPM Package](https://img.shields.io/npm/v/recoil-community.svg)](https://www.npmjs.com/package/recoil-community) |
+| **zustand-persist-plus** | Building robust persistence in Zustand is hard. This plugin makes it effortless | [![NPM Package](https://img.shields.io/npm/v/recoil-community.svg)](https://www.npmjs.com/package/zustand-persist-plus)
 
 *More projects coming soon...*
 

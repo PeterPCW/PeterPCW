@@ -27,6 +27,7 @@ I'm a developer who's fully embraced the AI coding era — using agents and auto
 | **retro-skins-platform** | Generate retro terminal skins with CRT effects, scanlines, glow, and more. Supports WezTerm, Alacritty, Kitty, and Windows Terminal terminal emulators | [![NPM Package](https://img.shields.io/npm/v/retro-skins-platform.svg)](https://www.npmjs.com/package/retro-skins-platform) |
 | **enzyme-on-rtl** | Automated migration from Enzyme to React Testing Library | [![npm version](https://img.shields.io/npm/v/enzyme-on-rtl)](https://npmjs.com/package/enzyme-on-rtl) |
 | **ts-deep-types** | A comprehensive collection of type-safe utility types for TypeScript. | [![npm version](https://img.shields.io/npm/v/ts-deep-types)](https://npmjs.com/package/ts-deep-types) |
+| **git-hooks-cli** | Modern, type-safe git hooks manager for Node.js | [![npm version](https://img.shields.io/npm/v/git-hooks-cli.svg)](https://www.npmjs.com/package/git-hooks-cli) |
 
 *More projects coming soon...*
 

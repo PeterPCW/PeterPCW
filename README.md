@@ -21,14 +21,15 @@ I'm a developer who's fully embraced the AI coding era — using agents and auto
 
 | Project | Description | Link |
 |---------|-------------|------|
+| **git-hooks-cli** | Modern, type-safe git hooks manager for Node.js | [![npm version](https://img.shields.io/npm/dm/git-hooks-cli.svg)](https://www.npmjs.com/package/git-hooks-cli)
+| **cli-table-modern** | Modern CLI table library for Node.js. Type-safe, zero-dependency, ESM-native revival of cli-table2. | [![npm downloads](https://img.shields.io/npm/dm/cli-table-modern.svg)](https://www.npmjs.com/package/cli-table-modern) |
+| **@react-error-utils** | Comprehensive React error handling library with hooks API, retry mechanisms, error reporting, and React 19 support. | [![NPM Downloads](https://img.shields.io/npm/dw/@react-error-utils/core)](https://www.npmjs.com/package/@react-error-utils/core) |
+| **ts-deep-types** | A comprehensive collection of type-safe utility types for TypeScript. | [![npm version](https://img.shields.io/npm/dm/ts-deep-types)](https://npmjs.com/package/ts-deep-types) |
+| **enzyme-on-rtl** | Automated migration from Enzyme to React Testing Library | [![npm version](https://img.shields.io/npm/dm/enzyme-on-rtl)](https://npmjs.com/package/enzyme-on-rtl) |
 | **recoil-community** | Modern fork of Facebook's Recoil state manager for React | [![NPM Package](https://img.shields.io/npm/dm/recoil-community.svg)](https://www.npmjs.com/package/recoil-community) |
 | **normalizr-modern** | Updated JSON normalization library for modern TypeScript apps | [![npm version](https://img.shields.io/npm/dm/normalizr-modern.svg)](https://www.npmjs.com/package/normalizr-modern) |
 | **zustand-persist-plus** | Building robust persistence in Zustand is hard. This plugin makes it effortless | [![NPM Package](https://img.shields.io/npm/dm/zustand-persist-plus.svg)](https://www.npmjs.com/package/zustand-persist-plus)
 | **retro-skins-platform** | Generate retro terminal skins with CRT effects, scanlines, glow, and more. Supports WezTerm, Alacritty, Kitty, and Windows Terminal terminal emulators | [![NPM Package](https://img.shields.io/npm/dm/retro-skins-platform.svg)](https://www.npmjs.com/package/retro-skins-platform) |
-| **enzyme-on-rtl** | Automated migration from Enzyme to React Testing Library | [![npm version](https://img.shields.io/npm/dm/enzyme-on-rtl)](https://npmjs.com/package/enzyme-on-rtl) |
-| **ts-deep-types** | A comprehensive collection of type-safe utility types for TypeScript. | [![npm version](https://img.shields.io/npm/dm/ts-deep-types)](https://npmjs.com/package/ts-deep-types) |
-| **git-hooks-cli** | Modern, type-safe git hooks manager for Node.js | [![npm version](https://img.shields.io/npm/dm/git-hooks-cli.svg)](https://www.npmjs.com/package/git-hooks-cli)
-| **cli-table-modern** | Modern CLI table library for Node.js. Type-safe, zero-dependency, ESM-native revival of cli-table2. | [![npm downloads](https://img.shields.io/npm/dm/cli-table-modern.svg)](https://www.npmjs.com/package/cli-table-modern) |
 
 *More projects coming soon...*
 

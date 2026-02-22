@@ -23,10 +23,10 @@ My approach is simple: Experiment → Iterate → Automate. This philosophy driv
 
 | Project | Description | Link |
 |---------|-------------|------|
-| **git-hooks-cli** | Modern, type-safe git hooks manager for Node.js | [![npm version](https://img.shields.io/npm/dm/git-hooks-cli.svg)](https://www.npmjs.com/package/git-hooks-cli) |
+| **git-hooks-cli** | Modern, type-safe git hooks manager for Node.js | [![npm downloads](https://img.shields.io/npm/dm/git-hooks-cli.svg)](https://www.npmjs.com/package/git-hooks-cli) |
 | **cli-table-modern** | Modern CLI table library for Node.js. Type-safe, zero-dependency, ESM-native revival of cli-table2. | [![npm downloads](https://img.shields.io/npm/dm/cli-table-modern.svg)](https://www.npmjs.com/package/cli-table-modern) |
-| **retro-skins-platform** | Generate retro terminal skins with CRT effects, scanlines, glow, and more. Supports WezTerm, Alacritty, Kitty, and Windows Terminal terminal emulators | [![NPM Package](https://img.shields.io/npm/dm/retro-skins-platform.svg)] |
-| **attune** 🚧 | Code checker to take your vibes from slop to ship | [![npm version](https://img.shields.io/npm/dm/attune.svg)](https://www.npmjs.com/package/attune) |
+| **retro-skins-platform** | Generate retro terminal skins with CRT effects, scanlines, glow, and more. Supports WezTerm, Alacritty, Kitty, and Windows Terminal terminal emulators | [![npm downloads](https://img.shields.io/npm/dm/retro-skins-platform.svg)](https://www.npmjs.com/package/retro-skins-platform) |
+| **attune** 🚧 | Code checker to take your vibes from slop to ship | [![npm downloads](https://img.shields.io/npm/dm/attune.svg)](https://www.npmjs.com/package/attune) |
 | **theme-studio** 🚧 | Interactive theme designer showcasing the extremes of what is possible with shadcn/ui | TBD |
 
 *More projects coming soon...*

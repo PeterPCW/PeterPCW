@@ -11,9 +11,9 @@
 
 # 👋 Hey, I'm Peter
 
-I've given up on coding. I learned a lot, it was fun, now it's the AI's turn.
+I've given up on coding. I learned a lot, it was fun, now it's AI's turn.
 
-But I'm not rolling over or moving to a cabin in the woods. I'll be right here orchestrating AI as the 'effort' layer. Applying human taste and system design to its 'average of the whole internet' slop. And inventing unique, exciting user experiences for all kinds of humans (and maybe some agents, we'll see).
+But I'm not rolling over or moving to a cabin in the woods. I'll be right here orchestrating AI as the 'effort' layer. Applying human taste and system design to the average-of-the-whole-internet slop. And inventing unique, exciting user experiences for all kinds of humans (and maybe some agents, we'll see).
 
 My approach is simple: Experiment → Iterate → Automate. This philosophy drives everything I do, from small scripts to published packages and beyond.
 

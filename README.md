@@ -9,11 +9,13 @@
 </br>
 <div>
 
-# 👋 Hi, I'm Peter
+# 👋 Hey, I'm Peter
 
-**Building at the intersection of AI and software development.**
+I've given up on coding. I learned a lot, it was fun, now it's the AI's turn.
 
-I'm a developer who's fully embraced the AI coding era — using agents and automation to build faster, ship more, and explore what's possible.
+But I'm not rolling over or moving to a cabin in the woods. I'll be right here orchestrating AI as the 'effort' layer. Applying human taste and system design to its 'average of the whole internet' slop. And inventing unique, exciting user experiences for all kinds of humans (and maybe some agents, we'll see).
+
+My approach is simple: Experiment → Iterate → Automate. This philosophy drives everything I do, from small scripts to published packages and beyond.
 
 ---
 
@@ -21,13 +23,11 @@ I'm a developer who's fully embraced the AI coding era — using agents and auto
 
 | Project | Description | Link |
 |---------|-------------|------|
-| **git-hooks-cli** | Modern, type-safe git hooks manager for Node.js | [![npm version](https://img.shields.io/npm/dm/git-hooks-cli.svg)](https://www.npmjs.com/package/git-hooks-cli)
+| **git-hooks-cli** | Modern, type-safe git hooks manager for Node.js | [![npm version](https://img.shields.io/npm/dm/git-hooks-cli.svg)](https://www.npmjs.com/package/git-hooks-cli) |
 | **cli-table-modern** | Modern CLI table library for Node.js. Type-safe, zero-dependency, ESM-native revival of cli-table2. | [![npm downloads](https://img.shields.io/npm/dm/cli-table-modern.svg)](https://www.npmjs.com/package/cli-table-modern) |
-| **@react-error-utils** | Comprehensive React error handling library with hooks API, retry mechanisms, error reporting, and React 19 support. | [![NPM Downloads](https://img.shields.io/npm/dw/@react-error-utils/core)](https://www.npmjs.com/package/@react-error-utils/core) |
-| **ts-deep-types** | A comprehensive collection of type-safe utility types for TypeScript. | [![npm version](https://img.shields.io/npm/dm/ts-deep-types)](https://npmjs.com/package/ts-deep-types) |
-| **enzyme-on-rtl** | Automated migration from Enzyme to React Testing Library | [![npm version](https://img.shields.io/npm/dm/enzyme-on-rtl)](https://npmjs.com/package/enzyme-on-rtl) |
-| **retro-skins-platform** | Generate retro terminal skins with CRT effects, scanlines, glow, and more. Supports WezTerm, Alacritty, Kitty, and Windows Terminal terminal emulators | [![NPM Package](https://img.shields.io/npm/dm/retro-skins-platform.svg)](https://www.npmjs.com/package/retro-skins-platform) |
-| **gumroad migration guides** | 6 (and counting) migration packages for complex/modern updates aimed at keeping projects current | [![Gumroad](https://img.shields.io/badge/Gumroad-FF90AD?style=flat&logo=gumroad&logoColor=white)](https://byteplusbit.gumroad.com/) |
+| **retro-skins-platform** | Generate retro terminal skins with CRT effects, scanlines, glow, and more. Supports WezTerm, Alacritty, Kitty, and Windows Terminal terminal emulators | [![NPM Package](https://img.shields.io/npm/dm/retro-skins-platform.svg)] |
+| **attune** 🚧 | Code checker to take your vibes from slop to ship | [![npm version](https://img.shields.io/npm/dm/attune.svg)](https://www.npmjs.com/package/attune) |
+| **theme-studio** 🚧 | Interactive theme designer showcasing the extremes of what is possible with shadcn/ui | TBD |
 
 *More projects coming soon...*
 
@@ -35,10 +35,10 @@ I'm a developer who's fully embraced the AI coding era — using agents and auto
 
 ## 🧠 What I'm Working On
 
-- **AI-Assisted Development** — Leveraging agent workflows to accelerate shipping
-- **React Ecosystem** — Modernizing well-loved libraries for React 18/19
-- **Developer Tools** — Automations, CLIs, and workflows that save time
-- **Open Source Revivals** — Taking on maintenance of abandoned but valuable tools
+- **AI Orchestration** — Pointing AI in a direction and getting out of the way
+- **Extreme Design** — What is possible at the very edges of UI and UI?
+- **Slop To Ship** — How can we make AI code into reliable products?
+- **What's Next** - CLIs, tools, workflows, products,...companies?
 
 ---
 
@@ -48,7 +48,7 @@ I'm a developer who's fully embraced the AI coding era — using agents and auto
 - Typescript
 - Node
 - C#
-- Whatever the AI tells me is good
+- Whatever AI tells me is good
 
 ---
 

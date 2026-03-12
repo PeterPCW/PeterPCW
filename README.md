@@ -23,11 +23,12 @@ My approach is simple: Experiment → Iterate → Automate. This philosophy driv
 
 | Project | Description | Link |
 |---------|-------------|------|
-| **git-hooks-cli** | Modern, type-safe git hooks manager for Node.js | [![npm downloads](https://img.shields.io/npm/dm/git-hooks-cli.svg)](https://www.npmjs.com/package/git-hooks-cli) |
-| **cli-table-modern** | Modern CLI table library for Node.js. Type-safe, zero-dependency, ESM-native revival of cli-table2. | [![npm downloads](https://img.shields.io/npm/dm/cli-table-modern.svg)](https://www.npmjs.com/package/cli-table-modern) |
-| **retro-skins-platform** | Generate retro terminal skins with CRT effects, scanlines, glow, and more. Supports WezTerm, Alacritty, Kitty, and Windows Terminal terminal emulators | [![npm downloads](https://img.shields.io/npm/dm/retro-skins-platform.svg)](https://www.npmjs.com/package/retro-skins-platform) |
-| **attune** 🚧 | Code checker to take your vibes from slop to ship | [![npm downloads](https://img.shields.io/npm/dm/attune.svg)](https://www.npmjs.com/package/attune) |
+| **attune** 🚧 | Local CLI code analyzer to take your vibes from slop to ship | [![npm downloads](https://img.shields.io/npm/dm/attune.svg)](https://www.npmjs.com/package/attune) |
 | **theme-studio** 🚧 | Interactive theme designer showcasing the extremes of what is possible with shadcn/ui | TBD |
+| **json-function-engine** 🚧 | Extracting the core that runs attune from simple json datastores | TBD |
+| **ts-compcomps** 🚧 | A generic factory library for creating type-safe compound components in React. | TBD |
+| **git-hooks-cli** | Modern, type-safe git hooks manager for Node.js | [![npm downloads](https://img.shields.io/npm/dm/git-hooks-cli.svg)](https://www.npmjs.com/package/git-hooks-cli) |
+| **websites** 🚧 | Applying lessons learned in theme-studio and having a little fun on the way | [find the easter eggs](https://peterpcw.github.io/) | 
 
 *More projects coming soon...*
 
@@ -36,8 +37,9 @@ My approach is simple: Experiment → Iterate → Automate. This philosophy driv
 ## 🧠 What I'm Working On
 
 - **AI Orchestration** — Pointing AI in a direction and getting out of the way
-- **Extreme Design** — What is possible at the very edges of UI and UI?
 - **Slop To Ship** — How can we make AI code into reliable products?
+- **Extreme Design** — What is possible at the very edges of UX and UI?
+- **Metaphorical Framing** - Can we map metaphorical space around an idea?
 - **What's Next** - CLIs, tools, workflows, products,...companies?
 
 ---
@@ -46,7 +48,7 @@ My approach is simple: Experiment → Iterate → Automate. This philosophy driv
 
 - React
 - Typescript
-- Node
+- Python
 - C#
 - Whatever AI tells me is good
 

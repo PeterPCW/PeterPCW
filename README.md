@@ -25,7 +25,6 @@ My approach is simple: Experiment → Iterate → Automate. This philosophy driv
 |---------|-------------|------|
 | **attune** 🚧 | Local CLI code analyzer to take your vibes from slop to ship | [![npm downloads](https://img.shields.io/npm/dm/attune.svg)](https://www.npmjs.com/package/attune) |
 | **autoagent** | Karpathy-style agent training loop with cron-triggered auto-optimization | [on Clawhub](https://clawhub.ai/PeterPCW/autoagent) |
-| **ts-compcomps** | A generic factory library for creating type-safe compound components in React. | [![NPM Downloads](https://img.shields.io/npm/dw/ts-compcomps)](https://www.npmjs.com/package/ts-compcomps) |
 | **git-hooks-cli** | Modern, type-safe git hooks manager for Node.js | [![npm downloads](https://img.shields.io/npm/dm/git-hooks-cli.svg)](https://www.npmjs.com/package/git-hooks-cli) |
 | **theme-studio** 🚧 | Interactive theme designer showcasing the extremes of what is possible with shadcn/ui | TBD |
 | **json-function-engine** 🚧 | Extracting the core that runs attune from simple json datastores | TBD |

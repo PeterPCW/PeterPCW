@@ -26,9 +26,7 @@ My approach is simple: Experiment → Iterate → Automate. This philosophy driv
 | **attune** 🚧 | Local CLI code analyzer to take your vibes from slop to ship | [![npm downloads](https://img.shields.io/npm/dm/attune.svg)](https://www.npmjs.com/package/attune) |
 | **autoagent** | Karpathy-style agent training loop with cron-triggered auto-optimization | [on Clawhub](https://clawhub.ai/PeterPCW/autoagent) |
 | **git-hooks-cli** | Modern, type-safe git hooks manager for Node.js | [![npm downloads](https://img.shields.io/npm/dm/git-hooks-cli.svg)](https://www.npmjs.com/package/git-hooks-cli) |
-| **theme-studio** 🚧 | Interactive theme designer showcasing the extremes of what is possible with shadcn/ui | TBD |
-| **json-function-engine** 🚧 | Extracting the core that runs attune from simple json datastores | TBD |
-| **websites** 🚧 | Applying lessons learned in theme-studio and having a little fun on the way | [find the easter eggs](https://peterpcw.github.io/) | 
+| **websites** 🚧 | Having fun with some weird design | [find the easter eggs](https://peterpcw.github.io/) | 
 
 *More projects coming soon...*
 
@@ -38,7 +36,6 @@ My approach is simple: Experiment → Iterate → Automate. This philosophy driv
 
 - **AI Orchestration** — Pointing AI in a direction and getting out of the way
 - **Slop To Ship** — How can we make AI code into reliable products?
-- **Extreme Design** — What is possible at the very edges of UX and UI?
 - **Metaphorical Framing** - Can we map metaphorical space around an idea?
 - **What's Next** - CLIs, tools, workflows, products,...companies?
 
